@@ -1,7 +1,7 @@
 # SportsStats2017
 Welcome to the GitHub Repo for the March 2017 Sport Statistics Workshops hosted at the ACEMS QUT node. 
 
-This repo is a place to continue discussions and bring collaborators together around Sports Research. Information about the workshops can be found on the Wiki and issues pages. Please feel free to add comments to any of the [issues](https://github.com/ACEMS/SportsStats2017/issues that interest you.  
+This repo is a place to continue discussions and bring collaborators together around Sports Research. Information about the workshops can be found on the Wiki and issues pages. Please feel free to add comments to any of the [issues](https://github.com/ACEMS/SportsStats2017/issues) that interest you.  
 
 
 Please see: 
